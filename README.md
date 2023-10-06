@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uTnaKqiocXxZaKTUJtL1PmyjrvELjxTi/view?usp=sharing](https://drive.google.com/file/d/1uTnaKqiocXxZaKTUJtL1PmyjrvELjxTi/view?usp=sharing)
 
-- ⚡ Fun fact **I once coded a program that could make my coffee in the morning – unfortunately, it was just a dream, but I'm working on it!**
+- ⚡ Fun fact **:- I once coded a program that could make my coffee in the morning – unfortunately, it was just a dream, but I'm working on it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
