@@ -1,3 +1,4 @@
+![logo](https://github.com/adarshkeshri/adarshkeshri/blob/main/ADarsh%20keshri%20(1).png)
 <h1 align="center">Hi 👋, I'm Adarsh Keshri</h1>
 <h3 align="center">Computer Science Enthusiast | Crafting Ideas into Code | Aspiring Software Developer</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
