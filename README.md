@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at: **keshriadarsh8501@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uTnaKqiocXxZaKTUJtL1PmyjrvELjxTi/view?usp=sharing](https://drive.google.com/file/d/1uTnaKqiocXxZaKTUJtL1PmyjrvELjxTi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NReiDfcqbNwZSuCS-zoiHjIsNqzbiUAd/view?usp=sharing)
 
 - ⚡ Fun fact ** I once coded a program that could make my tea in the morning – unfortunately, it was just a dream, but I'm working on it!**
 
